@@ -13,6 +13,7 @@ namespace LoginProject
         {
             base.OnCreate(savedInstanceState);
             // Set our view from the "main" layout resource
+            // hello
             SetContentView(Resource.Layout.activity_main);
         }
     }
